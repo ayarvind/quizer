@@ -15,7 +15,26 @@ body{
     color: #fff;
     background: #7707bd;
 }
+.author{
+    margin-top: 20px;
+}
+.author h1{
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.author h2{
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 10px;
+}
 
+ .author a{
+    color:white;
+
+ }
 .start_btn,
 .info_box,
 .quiz_box,
@@ -400,5 +419,11 @@ footer button.show{
         background-color: #d6b5f5;
         color:black
      }
+
+     
+.author h1,.author h2,.author a{
+   color:#333;
+}
+
     
 }
